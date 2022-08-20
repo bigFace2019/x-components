@@ -11,14 +11,13 @@
 ```vue
 <template>
   <div style="margin-bottom:20px;">
-    <SButton color="blue">主要按钮zzzzz</SButton>
-    <SButton color="green">绿色按钮</SButton>
-    <SButton color="gray">灰色按钮</SButton>
-    <SButton color="yellow">黄色按钮</SButton>
+    <SButton color="blue">色按钮测试修改</SButton>
+    <SButton color="green">绿色按钮测试修改</SButton>
+    <SButton color="gray">色按钮测试修改</SButton>
+    <SButton color="yellow">色按钮测试修改</SButton>
     <SButton color="red">红色按钮</SButton>
   </div>
-  <div style="margin-bottom:20px;"
-  >
+  <div style="margin-bottom:20px;">
     <SButton color="blue" plain>朴素按钮</SButton>
     <SButton color="green" plain>绿色按钮</SButton>
     <SButton color="gray" plain>灰色按钮</SButton>
