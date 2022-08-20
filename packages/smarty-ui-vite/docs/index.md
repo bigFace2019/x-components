@@ -27,7 +27,7 @@ npm i smarty-admin-ui
 
     const App = {
         template: `
-                <MyButton/>
+                <MyButton2/>
             `,
     };
 

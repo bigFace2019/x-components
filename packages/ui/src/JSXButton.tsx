@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { defineComponent, h } from "vue";
 
 export default defineComponent({
