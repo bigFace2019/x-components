@@ -11,7 +11,7 @@
 ```vue
 <template>
   <div style="margin-bottom:20px;">
-    <SButton color="blue">主要按钮</SButton>
+    <SButton color="blue">主要按钮bigface</SButton>
     <SButton color="green">绿色按钮</SButton>
     <SButton color="gray">灰色按钮</SButton>
     <SButton color="yellow">黄色按钮</SButton>
