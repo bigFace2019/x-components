@@ -1,24 +1,25 @@
 const sidebar = {
   "/": [
-    { text: "介绍", link: "/" },
+    { text: "大脸猫的博客", link: "/" },
     {
-      text: "通用",
+      text: "vue组件",
       children: [
         { text: "Button 按钮", link: "/components/button/" },
         { text: "tree ", link: "/components/tree/" },
 
       ],
     },
-    { text: "导航" },
-    { text: "反馈" },
-    { text: "数据录入" },
-    { text: "数据展示" },
-    { text: "布局" },
+    { text: "utils" },
+    { text: "可视化" },
+    { text: "数据结构与算法" },
+    { text: "react" },
+    { text: "Typescript" },
+    { text: "其他" },
   ],
 };
 const config = {
-  title: "🔨  Smarty-UI",
-  description: "组件库搭建的教学模型",
+  title: "大脸猫的博客",
+  description: "大脸猫的博客",
   themeConfig: {
     sidebar,
   },
